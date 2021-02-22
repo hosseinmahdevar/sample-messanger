@@ -1,0 +1,5 @@
+ir/webold/rabbit/Receiver.class
+ir/webold/rabbit/Message.class
+ir/webold/rabbit/Sender.class
+ir/webold/rabbit/Main.class
+ir/webold/rabbit/Consumer.class

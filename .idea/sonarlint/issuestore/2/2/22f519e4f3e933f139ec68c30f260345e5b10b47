@@ -1,0 +1,17 @@
+
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ë±õÊ
+I
+java:S1068"4Remove this unused "DEFAULT_EXCHANGE" private field.(ôû4
+o
+java:S1450"YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÿ›ÅÒ
+A
+java:S3416"+Update this logger to use "Receiver.class".(¬İ¡Ç
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(œŒªÙ
+D
+java:S1068".Remove this unused "QUEUE_NAME" private field.(Ë±õÊ
+N
+java:S1068"8Remove this unused "FANOUT_EXCHANGE_TYPE" private field.(÷º‘ö
+_
+java:S2147 "DCombine this catch with the one at line 30, which has the same body.(†ëˆçùÿÿÿÿ
